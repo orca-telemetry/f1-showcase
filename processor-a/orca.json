@@ -1,0 +1,6 @@
+{
+    "projectName": "processorA",
+    "orcaConnectionString": "localhost:33670",
+    "processorPort": 5377,
+    "processorConnectionString": "host.docker.internal:5377"
+}

@@ -1,0 +1,17 @@
+[project]
+name = "processor-a"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "numpy>=2.4.4",
+    "orca-python>=0.13.0",
+    "pandas>=3.0.2",
+]
+
+[project.scripts]
+register = "main:register"
+
+[project.scripts]
+start = "main:start"

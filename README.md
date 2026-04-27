@@ -1,1 +1,6 @@
-# f1-showcase
+# F1 Showcase
+
+## Processors
+
+- [Processor A](/processor-a/README.md) - contains algorithms pertaining to...
+- [Processor B](/processor-b/README.md) - contains algorithms pertaining to...
